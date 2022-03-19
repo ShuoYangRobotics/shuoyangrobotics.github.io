@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Computer Engineering, Hong Kong University of Science & Technology (HKUST), 2012
+* M.Phil. in Electronic and Computer Engineering, Hong Kong University of Science & Technology (HKUST), 2015
+* Ph.D in Mechanical Engineering, Carnegie Mellon University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-present: Research Assistant
+  * Carnegie Mellon University
+  * Conducted algorithmic research on trajectory optimization and estimation for dynamical robotics systems such as legged robots
+  * Supervisor: Professor Zachary Manchester & Professor Howie Choset
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2018: Techinical Director
+  * DJI Technology
+  * Led the organizing committee of RoboMaster, an annual robotics competition attracting over 400 international universities. Coordinated a team of 100 people to devise technical rules and create robot platforms. As the project lead and spokesperson, received worldwide media coverage from BBC, Times, Bloomberg, the Verge, etc
+
+* 2015-2016: Project Manager, Flight Control Algorithm Engineer
+  * DJI Technology
+  * Led an R\&D team of 30 engineers to create vision based intelligent navigation algorithms for drone product Phantom 4, world's first consumer electronics product that has stereo-vision based obstacle avoidance ability
   
-Skills
+* 2013-2015: Flight Control Algorithm Engineer
+  * DJI Technology
+  * Designed and developed the flight control software architecture for drone products Inspire 1, Phantom 3, Phantom 4, Mavic. The software runs on over a million DJI drone units
+  
+<!-- Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*  -->
 
 Publications
 ======
@@ -56,4 +58,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewers for RAL, ICRA, IROS, TCST
+* Team lead of HKUST Robotics Team
