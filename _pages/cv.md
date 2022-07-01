@@ -21,6 +21,11 @@ Work experience
   * Carnegie Mellon University
   * Conducted algorithmic research on trajectory optimization and estimation for dynamical robotics systems such as legged robots
   * Supervisor: Professor Zachary Manchester & Professor Howie Choset
+  
+* 2021-2022: Robotics R&D Intern - Simulation Technology
+  * NVIDIA Corporation
+  * Developed various simulation components in Issac Sim
+  * Supervisor: Buck Babich
 
 * 2016-2018: Techinical Director
   * DJI Technology
