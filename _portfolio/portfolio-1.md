@@ -8,6 +8,9 @@ I need to build a quadruped platform with basic control and estimation capabilit
 
 Based on this work I recently published [a paper on IEEE Robotics and Automation Letters](../_publications/2022-06-14-calibration.md).
 
+<img src='/images/gifs/kick.gif' width='400' height='600'>
+
+Videos show the performance of this controller 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TP46zgruig4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
