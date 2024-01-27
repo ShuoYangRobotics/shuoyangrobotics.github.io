@@ -17,7 +17,12 @@ Education
 
 Work experience
 ======
-* 2018-present: Research Assistant
+* 2023-present: Senior Humanoid Control Engineer
+  * Tesla
+  * Tesla Optimus robot control and state estimation
+  * Supervisor: Anand Swaminathan
+  
+* 2018-2023: Research Assistant
   * Carnegie Mellon University
   * Conducted algorithmic research on trajectory optimization and estimation for dynamical robotics systems such as legged robots
   * Supervisor: Professor Zachary Manchester & Professor Howie Choset
@@ -63,5 +68,5 @@ Teaching
   
 Service and leadership
 ======
-* Reviewers for RAL, ICRA, IROS, TCST
+* Reviewers for RAL, ICRA, IROS, TCST, TAC, TRO
 * Team lead of HKUST Robotics Team
