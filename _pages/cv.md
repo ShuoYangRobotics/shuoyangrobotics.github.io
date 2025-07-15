@@ -17,7 +17,10 @@ Education
 
 Work experience
 ======
-* 2023-present: Senior Humanoid Control Engineer
+* 2025.6-: Cofounder & CTO
+  * Mondo Tech
+
+* 2023-2025: Staff Humanoid AI/robotics Engineer
   * Tesla
   * Tesla Optimus robot control and state estimation
   * Supervisor: Anand Swaminathan
