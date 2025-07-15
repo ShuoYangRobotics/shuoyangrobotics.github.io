@@ -11,7 +11,7 @@ redirect_from:
 About Me
 --------
 
-I am a senior humanoid control engineer at Tesla, working on [Optimus](https://www.youtube.com/watch?v=cpraXaw7dyc) robot. Before moving to the Bay Area, I am a PhD student at Carnegie Mellon University (CMU). I worked in the [Robot Exploration Lab](https://roboticexplorationlab.org/) and the [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php) in the [Robotics Institude](https://www.ri.cmu.edu/). My research advisors are Professor [Zachary Manchester](https://www.ri.cmu.edu/ri-faculty/zachary-manchester/) and Professor [Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/). Currently, I am working on state estimation for legged robots and complex robotics systems.
+I am the co-founder and CTO of Mondo Technology, a consumer robot company founded in 2025. I was a staff humanoid AI/robotics engineer at Tesla, working on [Optimus](https://www.youtube.com/watch?v=cpraXaw7dyc) robot. Before moving to the Bay Area, I am a PhD student at Carnegie Mellon University (CMU). I worked in the [Robot Exploration Lab](https://roboticexplorationlab.org/) and the [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php) in the [Robotics Institude](https://www.ri.cmu.edu/). My research advisors are Professor [Zachary Manchester](https://www.ri.cmu.edu/ri-faculty/zachary-manchester/) and Professor [Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/). Currently, I am working on state estimation for legged robots and complex robotics systems.
 
 I obtained my B.Eng in Computer Engineering and M.Phil in Electronic and Computer Engineering from [Hong Kong University of Science & Technology (HKUST)](https://www.ust.hk/) in 2012 and 2015. During my undergraduate study I was the team leader of HKUST Robotics team for three years. This team represented Hong Kong to compete in [ABU Robocon](https://en.wikipedia.org/wiki/ABU_Robocon). During my graduate study I was the team leader of HKUST IARC team in 2014. The team performed very well in [IARC competition](http://www.aerialroboticscompetition.org/), an aerial vehicle competition that has more than 20 years history. Some of my master research work contributed to the flight control algorithm on DJI product autopilot [A3](https://www.dji.com/a3). 
 
@@ -24,7 +24,7 @@ Research Statement
 ------------------
 I use numerical optimization methods to enable legged robots to achieve stable control performance and precise low-drift long term state estimation. A key insight driving my research is control and estimation have inherent connections. The fact that control and estimation are dual problems allows mathematical tools developed for one problem to be applied to the other, such as factor graph and constrained trajectory optimization.
 
-All of my research ideas must be proved by rigorous mathematical derivations or hardware experiments. All of my control and estimation software projects are opensourced on [Github](https://github.com/ShuoYangRobotics).
+All of my research ideas must be proved by rigorous mathematical derivations or hardware experiments. All of my control and estimation software projects are open-sourced on [Github](https://github.com/ShuoYangRobotics).
 
 
 Robot Gallery
